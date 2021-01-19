@@ -1,4 +1,4 @@
-## Creating a movie app using react.js , react router
+### Creating a movie app using react.js , react router & react icon
 
 # Getting Started with Create React App
 
